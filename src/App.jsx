@@ -1,4 +1,4 @@
-import CardBox from './components/organism/cardBox'
+import CardBox from './components/organism/cardBox';
 import './App.css'
 
 function App() {

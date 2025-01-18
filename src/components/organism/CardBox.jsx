@@ -9,7 +9,7 @@ import wheatIcon from "../../assets/images/wheat.png";
 import leafIcon from "../../assets/images/leaf.png"
 import Card from "../molecules/Card/Card";
 
-function CardBox() {
+function cardBox() {
   return (
     <>
     <h1>Magari gamovida ra</h1>
@@ -66,4 +66,4 @@ function CardBox() {
     </>
   );
 }
-export default CardBox;
+export default cardBox;
