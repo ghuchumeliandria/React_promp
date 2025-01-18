@@ -1,11 +1,11 @@
-import CardBox from "./components/organism/CardContainer";
+import CardContainer from "./components/organism/CardContainer";
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <CardBox />
+      <CardContainer />
     </>
   )
 }
