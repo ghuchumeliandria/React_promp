@@ -1,0 +1,7 @@
+p {
+  color: var(--Cards-4-info-text, #a5adbb);
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 25px;
+}
